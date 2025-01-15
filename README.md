@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rostislav
-- 👀 I’m interested in Python, Mashine Learnig, Deep Learnig, Computer Vision
-- 🌱 I’m currently learning Deep Learnig in stepik.org
+- 👀 I’m interested in Python, Django, Mashine Learnig, Deep Learnig, Computer Vision
 
 
 <!---
